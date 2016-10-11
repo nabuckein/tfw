@@ -1,0 +1,51 @@
+body{
+  background-color:orange;
+}
+header{
+  color:white;
+  background-color:black;
+  top:0px;
+  padding-bottom:10px;
+  padding-top:10px;
+  text-align:center;
+  position: fixed;
+  height:10%;
+  width:100%;
+  font-family:'Ruslan Display';
+  font-size:60px;
+}
+
+#tfwBannerDiv{
+  margin-top:10%;
+}
+
+#tfwBanner{
+  max-height: 300px;
+  max-width: 600px;
+}
+.quotes{
+  display:inline;
+  
+  color: black;
+}
+#testingQuotes{
+  font-family: 'Alfa Slab One';
+  font-size: 30px;
+  margin-left:10px;
+  margin-right:10px;
+  
+}
+
+footer{
+  color:white;
+  background-color:black;
+  bottom:10px;
+  padding-bottom:10px;
+  padding-top:10px;
+  text-align:center;
+  position: fixed;
+  height:6%;
+  width:100%;
+  font-family:'Economica';
+  font-size: 20px;
+}
